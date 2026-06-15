@@ -22,5 +22,11 @@
     "message": "Prueba!",
     "type": "announcement",
     "created": 1781486440.947
+  },
+  {
+    "id": "90cd7359-7fbe-4c51-b585-56478cae8667",
+    "message": "Prueba!!!",
+    "type": "info",
+    "created": 1781486870.355
   }
 ]
