@@ -10,5 +10,11 @@
     "message": "hola! https://youtube.com",
     "type": "warning",
     "created": 1781486293.979
+  },
+  {
+    "id": "f473d6d2-eb6a-46ce-84c3-6893c2f61f38",
+    "message": "anuncio!!",
+    "type": "announcement",
+    "created": 1781486298.557
   }
 ]
