@@ -1,11 +1,5 @@
 [
   {
-    "id": "6bb04345-44c8-47f7-b053-f007d79f4418",
-    "message": "hola!",
-    "type": "info",
-    "created": 1781486208.457
-  },
-  {
     "id": "c66b5d5d-4d44-4bfa-aa9c-fb147262f9a8",
     "message": "hola! https://youtube.com",
     "type": "warning",
