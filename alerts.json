@@ -1,11 +1,5 @@
 [
   {
-    "id": "5386561a-00c1-4bea-8d8e-32cd38b78e83",
-    "message": "Pruebas",
-    "type": "success",
-    "created": 1781486028.835
-  },
-  {
     "id": "6bb04345-44c8-47f7-b053-f007d79f4418",
     "message": "hola!",
     "type": "info",
