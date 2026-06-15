@@ -4,5 +4,16 @@
     "message": "🖍️ **Mira las nuevas novedades (1.0):** https://youtube.com",
     "type": "success",
     "created": 1781487329.861
+  },
+  {
+    "id": "b9028dbe-16af-4a1e-8568-31600e0b157c",
+    "message": {
+      "es": "Español",
+      "en": "English",
+      "zh": "ZH",
+      "hi": "Hi"
+    },
+    "type": "info",
+    "created": 1781488031.088
   }
 ]
