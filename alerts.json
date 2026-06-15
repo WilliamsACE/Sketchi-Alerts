@@ -1,11 +1,5 @@
 [
   {
-    "id": "9116c377-30e7-48d1-a0f3-6446b2dc4ff5",
-    "message": "Prueba!",
-    "type": "announcement",
-    "created": 1781486440.947
-  },
-  {
     "id": "90cd7359-7fbe-4c51-b585-56478cae8667",
     "message": "Prueba!!!",
     "type": "info",
