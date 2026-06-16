@@ -20,5 +20,13 @@
     },
     "type": "success",
     "created": 1781489558.425
+  },
+  {
+    "id": "d3625b7a-c8d6-48d0-bdf6-7b807a54ad0e",
+    "message": {
+      "es": "Test"
+    },
+    "type": "info",
+    "created": 1781594790.079
   }
 ]
